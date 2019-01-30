@@ -1,0 +1,11 @@
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\bin\Debug\netcoreapp2.0\new_empty_project.deps.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\bin\Debug\netcoreapp2.0\new_empty_project.runtimeconfig.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\bin\Debug\netcoreapp2.0\new_empty_project.runtimeconfig.dev.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\bin\Debug\netcoreapp2.0\new_empty_project.dll
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\bin\Debug\netcoreapp2.0\new_empty_project.pdb
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.csprojAssemblyReference.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.csproj.CoreCompileInputs.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.AssemblyInfoInputs.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.AssemblyInfo.cs
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.dll
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\new_empty_project\new_empty_project\obj\Debug\netcoreapp2.0\new_empty_project.pdb
