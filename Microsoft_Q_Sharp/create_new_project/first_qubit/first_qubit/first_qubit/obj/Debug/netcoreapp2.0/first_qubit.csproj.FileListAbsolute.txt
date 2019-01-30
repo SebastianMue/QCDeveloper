@@ -1,0 +1,11 @@
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\bin\Debug\netcoreapp2.0\first_qubit.deps.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\bin\Debug\netcoreapp2.0\first_qubit.runtimeconfig.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\bin\Debug\netcoreapp2.0\first_qubit.runtimeconfig.dev.json
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\bin\Debug\netcoreapp2.0\first_qubit.dll
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\bin\Debug\netcoreapp2.0\first_qubit.pdb
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.csprojAssemblyReference.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.csproj.CoreCompileInputs.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.AssemblyInfoInputs.cache
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.AssemblyInfo.cs
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.dll
+C:\Users\Startklar\Desktop\QCDeveloper\Code\Microsoft_Q_Sharp\create_new_project\first_qubit\first_qubit\first_qubit\obj\Debug\netcoreapp2.0\first_qubit.pdb
